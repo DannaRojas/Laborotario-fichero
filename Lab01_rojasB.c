@@ -1,12 +1,13 @@
-/*************************************************************
-*            Pontificia Universidad Javeriana                *
-*                         ---=---                            *
-*                                                            *
-* Autores: - Danna Gabriela Rojas Bernal                     *
-* Fecha: 30 Octubre de 2025                                  *
-* Docente: J. Corredor                                       *
-*                                                            *
-* Descripción: Este programa demuestra el uso básico de      *
+/**************************************************************
+*            Pontificia Universidad Javeriana                 *
+*                         ---=---                             *
+*                                                             *
+* Autores: - Danna Gabriela Rojas Bernal                      *
+* Fecha: 30 Octubre de 2025                                   *
+* Docente: J. Corredor                                        *
+*                                                             *
+* Descripción: Este programa demuestra la lectura de un fichero 
+*              README.TXT*
 ***************************************************************/
 #include <stdio.h> 
 #include <stdlib.h>
@@ -31,7 +32,7 @@ printf("\n ================================\n");
 
 const unsigned  LARGO_MAX_LINEA = 256;
 char buffer[LARGO_MAX_LINEA];
-
+//bucle para leer ficheros  
 while(fgets(buffer, LARGO_MAX_LINEA,fp))
 printf("%s",buffer);
 
