@@ -5,8 +5,8 @@ Además, saber como se utiliza los servicios de gestión de Ficheros y directori
 
 ## Ejecucion 
 Para el primer laboratorio "Lab01_rojasB.c" se aprendio acerca de la lectura de un TXT, en el que se encontraba lo siguiente:
-"
-hola que tal 
+
+"hola que tal 
 
 materia SISTEMAS OPERATIVOS
 
