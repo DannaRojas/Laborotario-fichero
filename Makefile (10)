@@ -1,0 +1,25 @@
+#**************************************************************
+#                Pontificia Universidad Javeriana
+#
+# Autores: - Danna Gabriela Rojas Bernal
+# Fecha: 13 noviembre de 2025
+# Docente: J. Corredor
+#
+# Makefile para compilar el programa con hilos POSIX y mutex
+#**************************************************************
+GCC = gcc #define compilador
+FLAGS =
+MODULO =
+PROGRAMAS= Lab01_rojasB Lab02_rojasB Lab03_rojasB
+
+Lab01_rojasB:
+	$(GCC) $@.c -o $@
+
+Lab02_rojasB:
+	$(GCC) $@.c -o $@
+
+Lab03_rojasB:
+	$(GCC) $@.c -o $@
+
+clean:
+	$(RM) $(PROGRAMAS)
