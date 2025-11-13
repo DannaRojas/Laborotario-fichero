@@ -8,6 +8,10 @@
 *                                                             *
 * Descripción: Este programa demuestra la lectura de un fichero 
 *              README.TXT*
+*Conclusiones: En este programa se aprendio como se lee un TXT 
+ el que tenia como mensaje " hola que tal materia SISTEMAS OPERATIVOS
+Genial el estar con udtedes..! "
+
 ***************************************************************/
 #include <stdio.h> 
 #include <stdlib.h>
