@@ -1,5 +1,5 @@
 # Laboratorio Sistema de ficheros
-## Descroipción 
+## Descripción 
 En este laboratorio de sistemas de ficheros se desea conocer los s conceptos de fichero y directorio así como sus características.
 Además, saber como se utiliza los servicios de gestión de Ficheros y directorios ofrecidos por el sistema operativo y comprender su estructura.
 
