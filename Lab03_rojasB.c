@@ -5,7 +5,12 @@
 * Fecha: 13 noviembre de 2025                                   *
 * Docente: J. Corredor                                          *
 *                                                               *
-* Descripción: Este programa demuestra el uso básico de la      *
+* Descripción: Este programa demuestra la lectura y analisis de 
+derectorios en el que se permite ingresar el nombre de este 
+y ahi se leen los ficheros contenidos
+conclusión: En este laboratorio se permite comprender como 
+manejar fucniones como `readdir()`, `stat()`. Por otro lado,
+La manipulación de rutas y fechas en sistemas UNIX*
 ***************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
